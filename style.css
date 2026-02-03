@@ -13,3 +13,9 @@ h1 {
   object-fit: cover;
   border-style: dotted;
 }
+.first {
+  background-color: green;
+}
+.second {
+  background-color: pink;
+}
